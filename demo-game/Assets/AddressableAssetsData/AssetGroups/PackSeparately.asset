@@ -39,12 +39,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bb7f522227ffad9488dfdd66d628bfd4
-    m_Address: Assets/AddressableAssets/Blur
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Image
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c0b6ca0a2a723204bbc05df61082a822
     m_Address: Assets/AddressableAssets/Dlls
     m_ReadOnly: 0
