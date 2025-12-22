@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PackSeparately
+  m_EditorClassIdentifier: 
+  m_GroupName: PackSeparately
+  m_GUID: 8eab9f5ad35901d439ff1a8e881c4ac0
+  m_SerializeEntries:
+  - m_GUID: 3e0b29b7e3c27f540ae37fc9d919d927
+    m_Address: Assets/AddressableAssets/Audios
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cb92566fbe9bf240b9168e0cdaea615
+    m_Address: Assets/AddressableAssets/Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e4faf49e734f984babc17cb200f85ad
+    m_Address: Assets/AddressableAssets/Jsons
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Json
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8364aee01ec99214f887a1b54eabf862
+    m_Address: Assets/AddressableAssets/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb7f522227ffad9488dfdd66d628bfd4
+    m_Address: Assets/AddressableAssets/Blur
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Image
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0b6ca0a2a723204bbc05df61082a822
+    m_Address: Assets/AddressableAssets/Dlls
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dlls
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d70839bbf13392f4bbb02797c70e873f
+    m_Address: Assets/AddressableAssets/Animation
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f29e2e96a75df16449c2e57943f7ba66
+    m_Address: Assets/AddressableAssets/Prefabs/Common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CommonPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbef164d868d0ba4aae6330db2284875
+    m_Address: Assets/AddressableAssets/Images
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Image
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fddc2115267067a4d97354752e67704d
+    m_Address: Assets/AddressableAssets/Fonts
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CommonPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9bdcae1979219314780bb2d43aff9537, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 962081d6f735ffb4b9d494a11e24cf1f, type: 2}
+    - {fileID: 11400000, guid: 2bbf1e8df90778e4caf91bb4ee7804d4, type: 2}

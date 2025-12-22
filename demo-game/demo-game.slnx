@@ -1,0 +1,12 @@
+﻿<Solution>
+  <Project Path="ScozEditor.csproj" />
+  <Project Path="UniRx.csproj" />
+  <Project Path="SimpleJson.csproj" />
+  <Project Path="Game.csproj" />
+  <Project Path="Shiko.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Demigiant.csproj" />
+  <Project Path="GameEditor.csproj" />
+  <Project Path="HybridCLRGenerate.csproj" />
+  <Project Path="Oscar.Editor.csproj" />
+</Solution>

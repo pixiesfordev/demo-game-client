@@ -1,0 +1,7 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="JSFuncWrapper" preserve="all"/>
+		<type fullname="UnityAssemblyCaller" preserve="all"/>
+		<type fullname="GetURLParam" preserve="all"/>
+	</assembly>
+</linker>

@@ -1,0 +1,18 @@
+{"GameSetting":[
+	{	"ID":"DefaultLanguage",	"Value":"2"},
+	{	"ID":"DefaultMusic",	"Value":"0.8"},
+	{	"ID":"DefaultSound",	"Value":"0.8"},
+	{	"ID":"DefaultVoice",	"Value":"0.8"},
+	{	"ID":"GameID",	"Value":"demo-game"},
+	{	"ID":"Domain_Dev"},
+	{	"ID":"Domain_Test"},
+	{	"ID":"Domain_Release"},
+	{	"ID":"Domain_Dev_Service"},
+	{	"ID":"Domain_Dev_Game"},
+	{	"ID":"Domain_Test_Service"},
+	{	"ID":"Domain_Test_Game"},
+	{	"ID":"Domain_Release_Service"},
+	{	"ID":"Domain_Release_Game"},
+	{	"ID":"Domain_Release_Main_Suffix"},
+	{	"ID":"Domain_Release_Backup_Suffix"}
+]}

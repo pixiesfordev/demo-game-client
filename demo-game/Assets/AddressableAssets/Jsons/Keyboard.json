@@ -1,0 +1,7 @@
+{"Keyboard":[
+	{	"ID": 1,	"Preset_Bet_CNY": 10,	"Preset_Bet_USD": 10,	"Preset_Bet_KVND": 10},
+	{	"ID": 2,	"Preset_Bet_CNY": 50,	"Preset_Bet_USD": 50,	"Preset_Bet_KVND": 50},
+	{	"ID": 3,	"Preset_Bet_CNY": 100,	"Preset_Bet_USD": 100,	"Preset_Bet_KVND": 100},
+	{	"ID": 4,	"Preset_Bet_CNY": 500,	"Preset_Bet_USD": 500,	"Preset_Bet_KVND": 500},
+	{	"ID": 5,	"Preset_Bet_CNY": 3000,	"Preset_Bet_USD": 3000,	"Preset_Bet_KVND": 3000}
+]}

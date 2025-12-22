@@ -1,0 +1,19 @@
+public enum GameSetting_UnityAssembly
+{
+	DefaultLanguage,
+	DefaultMusic,
+	DefaultSound,
+	DefaultVoice,
+	GameID,
+	Domain_Dev,
+	Domain_Test,
+	Domain_Release,
+	Domain_Dev_Service,
+	Domain_Dev_Game,
+	Domain_Test_Service,
+	Domain_Test_Game,
+	Domain_Release_Service,
+	Domain_Release_Game,
+	Domain_Release_Main_Suffix,
+	Domain_Release_Backup_Suffix,
+}

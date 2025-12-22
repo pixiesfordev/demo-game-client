@@ -1,0 +1,7 @@
+<linker>
+  <!-- Rreserve following DLL and source code from stripped for precompilation -->
+  <assembly fullname="Google.FlatBuffers" preserve="all"/>
+  <assembly fullname="Google.Protobuf" preserve="all"/>
+  <assembly fullname="Shiko" preserve="all"/>
+  <assembly fullname="Newtonsoft.Json" preserve="all"/>
+</linker>
