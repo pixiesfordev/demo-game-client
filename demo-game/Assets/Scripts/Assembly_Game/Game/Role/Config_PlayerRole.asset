@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 107a18abbcd752649800a479a7fad4da, type: 3}
+  m_Name: Config_PlayerRole
+  m_EditorClassIdentifier: Game::PlayerRoleConfig
+  ID: 0
+  MaxHP: 100
+  HpRegenInterval: 5
+  HpRegenAmount: 1
+  MoveSpeed: 5
+  DashDistance: 6
+  DashDuration: 0.2
+  MaxStamina: 2
+  StaminaRecoverTime: 2

@@ -1,8 +1,14 @@
 ﻿<Solution>
-  <Project Path="UniRx.csproj" />
   <Project Path="SimpleJson.csproj" />
-  <Project Path="Demigiant.csproj" />
+  <Project Path="UniRx.csproj" />
+  <Project Path="UniTask.csproj" />
+  <Project Path="UniTask.Linq.csproj" />
   <Project Path="Game.csproj" />
+  <Project Path="UniTask.Addressables.csproj" />
+  <Project Path="Demigiant.csproj" />
+  <Project Path="UniTask.TextMeshPro.csproj" />
   <Project Path="HybridCLRGenerate.csproj" />
+  <Project Path="UniTask.Editor.csproj" />
+  <Project Path="UniTask.DOTween.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
 </Solution>
